@@ -3,7 +3,7 @@
 
 This repository hosts a simple static website deployed using GitHub Pages. The site is served directly from this repository and is publicly accessible at:
 
-**https://<MahithaNarra12>.github.io**
+**https://mahithanarra12.github.io/**
 
 ---
 
@@ -48,7 +48,7 @@ This repository hosts a simple static website deployed using GitHub Pages. The s
 ---
 
 Feel free to visit the live website:  
-[https://<MahithaNarra12>.github.io](https://<MahithaNarra12>.github.io)
+[https://<MahithaNarra12>.github.io](https://mahithanarra12.github.io/)
 
 ---
 
